@@ -10,14 +10,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="./css/general.css">
+  <link rel="stylesheet" href="css/general.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/queries.css">
 
   <title>Omnifood</title>
 </head>
 
 <body>
-  <header class="header">
+  <header class="header ">
     <a href="#">
       <img class="logo" src="img/omnifood-logo.png" alt="Omnifood logo">
     </a>
@@ -30,6 +31,12 @@
         <li><a class="main-nav-link nav-cta" href="#">Try for free</a></li>
       </ul>
     </nav>
+
+    <button class="btn-mobile-nav">
+      <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+
+      <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+    </button>
   </header>
 
 
@@ -330,7 +337,7 @@
       </div>
 
       <div class="container grid grid--2-cols margin-right-md">
-        <div class="princing-plan princing-plan--starter">
+        <div class="pricing-plan pricing-plan--starter">
           <header class="plan-header">
             <p class="plan-name">Starter</p>
             <p class="plan-price"><span>$</span>399</p>
@@ -362,7 +369,7 @@
           </div>
         </div>
 
-        <div class="princing-plan princing-plan--complete">
+        <div class="pricing-plan pricing-plan--complete">
           <header class="plan-header">
             <p class="plan-name">Complete</p>
             <p class="plan-price"><span>$</span>649</p>
@@ -534,7 +541,7 @@
       </nav>
 
       <nav class="nav-col">
-        <p class="footer-heading">Account</p>
+        <p class="footer-heading">Resources</p>
         <ul class="footer-nav">
           <li><a class="footer-link" href="">Recipe directory</a></li>
           <li><a class="footer-link" href="">Help center</a></li>
