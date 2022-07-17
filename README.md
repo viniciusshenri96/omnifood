@@ -36,11 +36,9 @@
 
 _Omnifood_ - Este grande projeto foi desenvolvido no curso de HTML e CSS de Jonas Schmedtmann da udemy, desde o design ao código.
 
-&nbsp;
-
 ## **Sobre a Omnifood:**
 
-    Somos uma empresa de tecnologia em primeiro lugar, mas com grande foco no bem-estar do consumidor por meio de uma alimentação saudável. A maioria das pessoas está muito ocupada com seus trabalhos, família e amigos e outras atividades importantes, o que não deixa muito tempo para cozinhar. Isso pode levar a uma dieta pobre e consequências duradouras para a saúde. Queremos resolver esse problema usando uma abordagem centrada em IA. Os usuários podem usar nosso aplicativo para selecionar sua dieta e alimentos que gostam e não gostam, e nosso algoritmo de IA criará um plano de refeições semanal personalizado e individual. Mas não paramos por aí. Fazemos parcerias com restaurantes e outros parceiros de culinária para realmente cozinhar e entregar todas as refeições dos planos de refeições gerados, em cidades selecionadas. Tudo isso será embalado em uma assinatura mensal, onde os usuários podem escolher entre receber uma ou duas refeições por dia, todos os dias do mês.
+ Somos uma empresa de tecnologia em primeiro lugar, mas com grande foco no bem-estar do consumidor por meio de uma alimentação saudável. A maioria das pessoas está muito ocupada com seus trabalhos, família e amigos e outras atividades importantes, o que não deixa muito tempo para cozinhar. Isso pode levar a uma dieta pobre e consequências duradouras para a saúde. Queremos resolver esse problema usando uma abordagem centrada em IA. Os usuários podem usar nosso aplicativo para selecionar sua dieta e alimentos que gostam e não gostam, e nosso algoritmo de IA criará um plano de refeições semanal personalizado e individual. Mas não paramos por aí. Fazemos parcerias com restaurantes e outros parceiros de culinária para realmente cozinhar e entregar todas as refeições dos planos de refeições gerados, em cidades selecionadas. Tudo isso será embalado em uma assinatura mensal, onde os usuários podem escolher entre receber uma ou duas refeições por dia, todos os dias do mês.
 
 ---
 
@@ -61,7 +59,7 @@ _Omnifood_ - Este grande projeto foi desenvolvido no curso de HTML e CSS de Jona
 
 ### Mobile
 
-<p align="center">
+<p align="left">
 
   <img alt="omnifood" title="#omnifood" src="readme/mobile.png" width="200px">
 
@@ -69,14 +67,14 @@ _Omnifood_ - Este grande projeto foi desenvolvido no curso de HTML e CSS de Jona
 
 ### Tablet
 
-<p align="center">
+<p align="left">
    <img alt="omnifood" title="#omnifood" src="readme/tablet.png" width="600px">
 
 </p>
 
 ### Desktop
 
-<p align="center">
+<p align="left">
   <img alt="omnifood" title="#omnifood" src="readme/desktop.png" width="600px">
 
 </p>
