@@ -27,6 +27,7 @@
   - [Mobile](#mobile)
   - [Tablet](#tablet)
   - [Desktop](#desktop)
+- [Hospedagem](#hospedagem)
 - [Tecnologias](#tecnologias)
 - [Autor](#tecnologias)
 
